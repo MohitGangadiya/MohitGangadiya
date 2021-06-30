@@ -2,8 +2,7 @@
 - 👋 I’m @MohitGangadiya
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Python language
-- 📫 You can reach me @ 
-     mohit.gangadia@gmail.com
+- 📫 You can reach me @ mohit.gangadia@gmail.com
 
 <!--
 **MohitGangadiya/MohitGangadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
