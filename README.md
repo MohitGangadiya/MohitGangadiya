@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 I’m @MohitGangadiya
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python language
+- 👀 I’m Jr. Software Development
+- 🌱 I’m currently into MERN STACK technologies
 - 📫 You can reach me @ mohit.gangadia@gmail.com
 
 <!--
